@@ -1,10 +1,14 @@
-# Analog automation
+# Analog Automation
+
 To develop an automated system that analyzes an analog circuit netlist and infers its functionality, eliminating the need for manual interpretation and simulation.
 
-## List of files
-Probability_model = splitting of keywords mechanism.
-BISTM_model = RNN + BISTM model.
-graph_circuit_lumping = lumping of components in parallel and series (R and C).
+## List of Files
 
-## How to run
-You can run each file by running the code attached in google collab (you have an option on top called "open in collab").
+- **Probability_model**: Splitting of keywords mechanism.
+- **BISTM_model**: RNN + BISTM model.
+- **graph_circuit_lumping**: Lumping of components in parallel and series (R and C).
+
+## How to Run
+
+You can run each file by executing the code attached in Google Colab. There is an option at the top called "Open in Colab" to access it.
+
