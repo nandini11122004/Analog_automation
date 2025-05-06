@@ -6,7 +6,7 @@ To develop an automated system that analyzes an analog circuit netlist and infer
 
 - **Probability_model**: Splitting of keywords mechanism.
 - **BISTM_model**: RNN + BISTM model.
-- **graph_circuit_lumping**: Lumping of components in parallel and series (R and C).
+- **graph_circuit_lumping**: Creating a graph structure using the components and connctions from the netlist and lumping components in parallel and series(R and C).
 
 ## How to Run
 
